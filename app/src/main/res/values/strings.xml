@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">iAMin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="student_prompt">Select Student</string>
+    <string name="course_prompt">Select Course</string>
+    <string name="prompt_student_id">Student ID</string>
+    <string name="prompt_lecturer_id">Lecturer ID</string>
+    <string name="error_login">Error while Login, Please try again!</string>
+
+
+    <string-array name="student_arrays">
+        <item>Ahmed</item>
+        <item>Mohamed</item>
+        <item>Ali</item>
+        <item>Hany</item>
+        <item>Mahmoud</item>
+        <item>Faisal</item>
+        <item>Wael</item>
+        <item>Youssef</item>
+    </string-array>
+
+
+    <string-array name="course_arrays">
+        <item>Java</item>
+        <item>Artificial Intelligence</item>
+        <item>Math</item>
+        <item>Science</item>
+        <item>Arabic</item>
+        <item>Physics</item>
+        <item>Material</item>
+        <item>Analysis</item>
+    </string-array>
+
+</resources>
